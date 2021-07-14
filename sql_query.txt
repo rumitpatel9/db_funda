@@ -1,0 +1,16 @@
+1)show database.
+SHOW DATABASES;
+2)CREATE DATABASE (database name)
+3)USE (database name)
+4)creating a tables
+CREATE TABLE (table name)((coloms_name) (datatype));
+5)SHOW (tablename);
+6)SELECT * FROM (table name);
+7)select * from (table name) where conditions;
+8) we can use and or and not in where conditions..
+9)insert (table name) into (coloums_name) values();
+10)update (table name) set (which we wont to set) where conditions;
+11)delete from (table name) where condition;
+12)select * from (table name) where condition limit (numbers...);
+13)count,avg and sum function..
+14)select * from employees where link '%a';
